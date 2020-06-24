@@ -20,6 +20,7 @@ h1 {
   color: #000;
   text-align: left;
   display:inline;
+  line-height: 0.4;
 }
 
 h2{
@@ -78,7 +79,7 @@ p {
   font-family: 'Roboto', sans-serif;
   display: inline;
   color: #000;
-  font-size: 0.8rem;
+  font-size: 10px;
   text-decoration: none;
   letter-spacing: 2px;
   float: right;
@@ -139,7 +140,7 @@ p {
   letter-spacing: 2px;
   font-family: 'Roboto', sans-serif;
   text-align: left;
-  font-size: 0.8rem;
+  font-size: 10px;
   line-height: 1.5;
   color: black;
   -webkit-text-stroke-width: none;
